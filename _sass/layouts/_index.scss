@@ -12,6 +12,27 @@
 .call-out p:last-child {
   margin-bottom: 0;
 }
+
+ul.social-media-icons {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  text-align:center;
+}
+
+ul.social-media-icons li {
+  display:inline;
+}
+
+ul.social-media-icons li a {
+  display: inline-block;
+  color: #fff;
+  padding: 5px 10px;
+  transition: 0.3s;
+  font-size: 32px;
+  margin: 0 auto;
+}
+
 // Post listing
 .posts {
   .post-teaser {
