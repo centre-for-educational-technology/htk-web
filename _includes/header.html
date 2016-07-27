@@ -14,7 +14,7 @@
 		</h1>
 	</div>
 	<nav class="site-nav">
-		<ul>
+		<ul class="topnav" id="myTopnav">
 			{% for page in site.pages %}
 			{% if page.title and page.hide != true %}
 			<li>
@@ -24,8 +24,9 @@
 			</li>
 			{% endif %}
 			{% endfor %}
-			<!-- Social icons from Font Awesome, if enabled -->
-			{% include icons.html %}
+			<li class="responsive-menu-icon">
+				<a href="javascript:void(0);" onclick="responsiveMenu()">&#9776;</a>
+			</li>
 		</ul>
 	</nav>
 </header>

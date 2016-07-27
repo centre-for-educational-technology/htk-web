@@ -26,28 +26,76 @@
     line-height: 1.5;
   }
 
-  .site-nav {
+  ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+    float: right;
+  }
+
+  ul.topnav li {
+    float: left;
+  }
+
+  ul.topnav li a {
+    display: inline-block;
+    color: $text-color;
+    text-align: center;
+    padding: 5px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+
+  /* Change background color of links on hover */
+  ul.topnav li a:hover {
+    background-color: #ececec;
+  }
+
+  /* Hide the list item that contains the link that should open and close the topnav on small screens */
+  ul.topnav li.responsive-menu-icon {
+    display: none;
+  }
+
+  @media (max-width: 1100px) {
     ul {
-      margin: 0;
-      padding: 0;
-      list-style: none;
-      line-height: 1.5;
-      float: right;
-      text-align: right;
-    }
-    li {
-      display: inline;
+      display: inline-block;
       float: left;
-      margin-right: 0.4em;
+      padding-top: $padding-small;
+      text-align: left;
+      width: 100%;
     }
-    @media (max-width: 1100px) {
-      ul {
-        display: inline-block;
-        float: left;
-        padding-top: $padding-small;
-        text-align: left;
-        width: 100%;
-      }
+  }
+
+  /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.responsive-menu-icon) */
+  @media screen and (max-width:680px) {
+    ul.topnav li:not(:first-child) {
+      display: none;
+    }
+
+    ul.topnav li.responsive-menu-icon {
+      float: right;
+      display: inline-block;
+    }
+  }
+
+  /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the responsive-menu-icon. This class makes the topnav look good on small screens */
+  @media screen and (max-width:680px) {
+    ul.topnav.responsive {position: relative;}
+    ul.topnav.responsive li.responsive-menu-icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    ul.topnav.responsive li {
+      float: none;
+      display: inline;
+    }
+    ul.topnav.responsive li a {
+      display: block;
+      text-align: left;
     }
   }
 }

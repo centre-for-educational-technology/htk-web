@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Centre for Educational Technology is the research centre of the School of Digital Technology, [Tallinn University (TLU)](http://www.tlu.ee). Centre was established more than 20 years ago and is now one of the leading competency-centres in technology-enhanced learning in Estonia.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Our centre investigates the development, adoption and use of current technologies in several areas of society. Special focus is put on technologies in education (learning environments and learning technologies, game-based learning, location-based technologies for education), information environments and libraries (knowledge management, digital libraries and digital literacies), industry (healthcare, construction etc). In line with our research we focus on the human-computer or the human-information interface with a focus on ubiquitous, mobile, social and semantic technologies to improve user experience.
+
+Research interests of the Centre are strongly associated with the academic study fields of the school: Applied Informatics (link), Digital Learning Ecosystems (link), Human-Computer Interaction (link), Information Sciences (link) and Mathmatics and Didactics of Mathematics).  Centre for Educational Technology is collaborating tightly with the Centre of Excellence in Educational Innovation (leaded by prof Tobias Ley) and Centre of Excellence in Media Innovation and Digital Culture (leaded by associate professor Indrek Ibrus).
