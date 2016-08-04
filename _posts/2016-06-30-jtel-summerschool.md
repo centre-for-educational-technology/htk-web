@@ -10,4 +10,4 @@ Pre-summerschool activities started on 19th June in Tallinn and after nice socia
 
 It was our pleasure to host the summer school and we would like to thank everyone for the collaboration.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NrYjRMaHPE" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2NrYjRMaHPE" frameborder="0" allowfullscreen></iframe>
