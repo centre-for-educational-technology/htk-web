@@ -29,7 +29,7 @@ feature-img: "img/sample_feature_img.png"
 | Martin Sillaots | Lecturer| martin.sillaots@tlu.ee; Expertise: Game-based learning
 | Mati Mõttus | Analyst| mati.mottus@tlu.ee; Expertise: 
 
-** Research support and dev staff**
+**Research support and dev staff**
 
 | Priit Tammets | analyst | priit.tammets@tlu.ee
 | Jaanika Hirv | analyst | jaanika.hirv@tlu.ee
