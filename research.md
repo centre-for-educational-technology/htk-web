@@ -5,11 +5,12 @@ permalink: /research/
 feature-img: "img/sample_feature_img_3.png"
 ---
 
-Research activities are tightly related with five academic fields and centre for excellences:
+Research activities of the Centre for Educational Technology are tightly related with five academic fields of School of Digital Technologies and centre for excellences of other schools of TLU:
 
 ### Applied Informatics
 
 The study area of applied informatics focuses on the problems of introducing IT studies in higher education and applying IT resources in non-IT fields. IT studies encompass both IT and non-IT specialities and works on developing study programmes, as well as analysing and ensuring the quality of the study process (incl. collaborating with alumni and companies).
+Related curricula: Informatics (BA), Information Technology Management (MA) and Information Society Technologies (PhD)
 
 **Head of Study Area:** Peeter Normak, professor\\
 **E-mail:** peeter.normak@tlu.ee\\
