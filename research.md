@@ -5,7 +5,7 @@ permalink: /research/
 feature-img: "img/sample_feature_img_3.png"
 ---
 
-Research activities of the Centre for Educational Technology are tightly related with five academic fields of School of Digital Technologies and centre for excellences of other schools of TLU:
+Research activities of the Centre for Educational Technology are tightly related with five study fields of School of Digital Technologies and centre for excellences of other schools of TLU:
 
 ### Applied Informatics
 
@@ -19,7 +19,8 @@ Related curricula: Informatics (BA), Information Technology Management (MA) and 
 
 ### Digital Learning Ecosystems
 
-Digital Learning Ecosystems focuses on planning, modelling and designing new learning systems with the help of technology. This study area is characterised by interdisciplinarity, connecting informatics (education technologies, human-computer interaction, social and semantic technology), educational sciences (teacher education, study programme development and competence-based education) with applied cognitive psychology, which in turn helps us see the big picture in such social-technical systems in constant dynamic change and development.
+Digital Learning Ecosystems focuses on planning, modelling and designing new learning systems with the support of technology. This study area is characterised by interdisciplinarity, connecting informatics (education technologies, human-computer interaction, social and semantic technology), educational sciences (teacher education, curriculum development and competence-based education) with applied cognitive psychology, which in turn helps us see the big picture in such social-technical systems in constant dynamic change and development.
+Related curricula: Educational Technology (MA) and Digital Learning Games (MA)
 
 **Head of Study Area:** Kai Pata, Senior Research\\
 **E-mail:** kai.pata@tlu.ee\\
@@ -29,6 +30,7 @@ Digital Learning Ecosystems focuses on planning, modelling and designing new lea
 ### Human-Computer Interaction
 
 Human-Computer Interaction sees interaction design as the main way of enhancing life through research, design and technology. Our work focuses on developing knowledge, skills and technology to help researchers, designers and developers to reach their goals. Various ways and levels of understanding people, design processes and technology are vital to us.
+Related curricula: Human-Computer Interaction (MA)
 
 **Head of Study Area:** David Lamas, professor of HCI\\
 **E-mail:** david.lamas@tlu.ee\\
@@ -37,6 +39,7 @@ Human-Computer Interaction sees interaction design as the main way of enhancing 
 ### Information Sciences
 
 Information Sciences focuses on promoting the research, development and studies in information management, information behaviour, digital competences, digital libraries, digital humanities, digital cultural heritage, electronic publishing and electronic document and archive management. The goal of this area is to enhance and develop study programmes that would help Estonian and foreign students to obtain a degree based on information sciences on all levels that would be on a high level, internationally competitive and would serve the needs of the society. According to negotiations between the Ministry of Education and Research and Estonian Universities, the Information Sciences academic field is co-responsible for developing the area of information sciences in Estonia. The mission of this academic field is to support the sustainable development on Estonia through helping information science professionals and researchers, applying research, societal thought exchange and promoting academic partnerships.
+Related curricula: Information sciences (BA), Information sciences (MA) and Information- and communication sciences (PhD)
 
 **Head of Study Area:** Sirje Virkus, professor\\
 **E-mail:** sirje.virkus@tlu.ee\\
@@ -45,7 +48,8 @@ Information Sciences focuses on promoting the research, development and studies 
 
 ### Mathmatics and Didactics of Mathematics
 
-This area works with topological algebra, summarising methods and convergence of functions.
+This area works with topological algebra, summarising methods and convergence of functions. Study fields contributes to the development of teacher education in the field of mathmatics. 
+Related curriculua: Mathematics (BA) and Teacher of mathematics (MA)
 
 **Head of Academic Direction:** Madis Lepik, Associate Professor of Didactics of Mathematics\\
 **E-mail:** madis.lepik@tlu.ee\\
