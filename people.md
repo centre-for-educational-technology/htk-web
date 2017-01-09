@@ -7,7 +7,9 @@ feature-img: "img/sample_feature_img.png"
 
 **Administrative**
 
-| PhD Kairit Tammets | Head of the centre for educational technology & Senior researcher of Educational Technology. | kairit.tammets@tlu.ee; +372 6409 355. Expertise: learning analytics in policy-making, MOOCs, educational technology in higher education
+| PhD Kairit Tammets | Head of the centre for educational technology & Senior researcher of Educational Technology. | kairit.tammets@tlu.ee; +372 6409 355.
+
+Expertise: learning analytics in policy-making, MOOCs, educational technology in higher education
 | Pirgit Voolaid |  Research coordinator | pirgit.voolaid@tlu.ee; +372 640 9355. Expertise: Administrative aspects of research projects, coordination of research activities
 | Anet Põdra | Research assistant | anet.podra@tlu.ee; +372 640 9355. Expertise: Administrative aspects of research projects
 
