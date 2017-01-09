@@ -34,8 +34,9 @@ feature-img: "img/sample_feature_img.png"
 | Martin Sillaots | Lecturer| martin.sillaots@tlu.ee; Expertise: Game-based learning
 | Ilja Šmorgun | Lecturer| ilja.smorgun@tlu.ee; Expertise: 
 | Jaanika Hirv | analyst | jaanika.hirv@tlu.ee; Expertise:
-| Mati Mõttus | Analyst, PhD students| mati.mottus@tlu.ee; Expertise: 
-| Abiodun Afolayan Ogunyemi | PhD student  | abnogn@tlu.ee
+| Mati Mõttus | Analyst, PhD student| mati.mottus@tlu.ee; Expertise: 
+| Gerti Pishtari | junior researcher, PhD student| gerti.pishtari@tlu.ee; Expertise: 
+| Abiodun Afolayan Ogunyemi | PhD student | abnogn@tlu.ee
 | Eka Jeladze | PhD student | eka.tammets@tlu.ee; Expertise:
 | James Sunney Quaicoe | PhD student | aasanni@tlu.ee; Expertise: 
 | Anastassiia Väljamäe | PhD student  | anastasiia.valjamae@tlu.ee
