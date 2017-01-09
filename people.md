@@ -16,6 +16,8 @@ feature-img: "img/sample_feature_img.png"
 | Prof. David Lamas | Professor of Interaction design | david.lamas@tlu.ee; Expertise:
 | Prof. Tobias Ley | Professor of Learning analytics and educational innovation | tobias.ley@tlu.ee; Expertise: 
 | Prof. Sirje Virkus | professor of Information sciences | sirje.virkus@tlu.ee; Expertise: 
+| Prof. Mart Abel | professor of Mathmatics | mart.abel@tlu.ee; Expertise: 
+| Prof. Andi Kivinukk | professor of Applied mathmatics | andi.kivinukk@tlu.ee; Expertise: 
 | PhD Adolfo Ruiz Calleja | Senior Research Fellow of Learing analytics| adolfo@tlu.ee; Expertise: 
 | PhD Pille Eslon | Senior Research Fellow of Language technologies| pille.eslon@tlu.ee; Expertise: 
 | PhD Mart Laanpere | Senior Research Fellow of Educational technology| mart.laanpere@tlu.ee; Expertise: 
