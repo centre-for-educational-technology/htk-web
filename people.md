@@ -18,6 +18,7 @@ Expertise: learning analytics in policy-making, MOOCs, educational technology in
 | Prof. David Lamas | Professor of Interaction design | david.lamas@tlu.ee; Expertise:
 | Prof. Tobias Ley | Professor of Learning analytics and educational innovation | tobias.ley@tlu.ee; Expertise: 
 | Prof. Sirje Virkus | professor of Information sciences | sirje.virkus@tlu.ee; Expertise: 
+| PhD Kairit Tammets | Senior Research Fellow of Educational technology| kairit.tammets@tlu.ee; Expertise: 
 | PhD Mart Laanpere | Senior Research Fellow of Educational technology| mart.laanpere@tlu.ee; Expertise: 
 | PhD Kai Pata | Senior Research Fellow of Educational technology| kai.pata@tlu.ee; Expertise: 
 | PhD Adolfo Ruiz Calleja | Senior Research Fellow of Learing Analytics| adolfo@tlu.ee; Expertise: 
