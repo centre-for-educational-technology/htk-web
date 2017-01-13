@@ -44,9 +44,9 @@ feature-img: "img/sample_feature_img.png"
 
 **Research support and dev staff**
 
-| Priit Tammets | analyst | priit.tammets@tlu.ee
-| Pjotr Savitski | senior developer | pjotr.savitski@tlu.ee
-| Sander Aido | developer | sander.aido@tlu.ee
-| Gleb Redko | developer | gleb.redko@tlu.ee
-| Karli Raudsepp | developer | karli.raudsepp@tlu.ee
-| Aili Madisson | developer | (currently on leave)
+| **Priit Tammets** | analyst | priit.tammets@tlu.ee
+| **Pjotr Savitski** | senior developer | pjotr.savitski@tlu.ee
+| **Sander Aido** | developer | sander.aido@tlu.ee
+| **Gleb Redko** | developer | gleb.redko@tlu.ee
+| **Karli Raudsepp** | developer | karli.raudsepp@tlu.ee
+| **Aili Madisson** | developer | (currently on leave)
