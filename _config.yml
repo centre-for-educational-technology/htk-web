@@ -12,21 +12,19 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>The Centre for Educational Technology was established in 1996 as an interdisciplinary R&D unit within the Institute of Informatics at Tallinn University.</p>
 
-     <p>Tallinn University (TLU) is the third largest public university in Estonia with 9500 students in 6 institutes and 2 colleges.</p>
   header_text_feature_image:
   footer_text: >
 
   # Icons
-  rss: true
+  rss: false
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "centre-for-educational-technology"
+  github:
   google_plus:
   instagram:
   linkedin:  # Full URL
