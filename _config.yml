@@ -17,7 +17,6 @@ theme:
      <p>Tallinn University (TLU) is the third largest public university in Estonia with 9500 students in 6 institutes and 2 colleges.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> and its modifications
 
   # Icons
   rss: true
@@ -42,7 +41,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-408910-13"
   disqus_shortname:
   katex: true # Enable if using math markup
 
