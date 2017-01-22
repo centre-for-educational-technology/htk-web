@@ -14,9 +14,9 @@ feature-img: "img/sample_feature_img.png"
 **Research**
 
 | **Prof. David Lamas** | Professor of Interaction design | David.Lamas@tlu.ee
-| **Prof. Sirje Virkus** | professor of Information sciences | Sirje.Virkus@tlu.ee
-| **Prof. Mart Abel** | professor of Mathmatics | Mart.Abel@tlu.ee
-| **Prof. Andi Kivinukk** | professor of Applied mathmatics | Andi.Kivinukk@tlu.ee
+| **Prof. Sirje Virkus** | Professor of Information sciences | Sirje.Virkus@tlu.ee
+| **Prof. Mart Abel** | Professor of Mathmatics | Mart.Abel@tlu.ee
+| **Prof. Andi Kivinukk** | Professor of Applied mathmatics | Andi.Kivinukk@tlu.ee
 | **PhD Adolfo Ruiz Calleja** | Senior Research Fellow of Learing analytics| Adolfo.Ruiz_calleja@tlu.ee
 | **PhD Pille Eslon** | Senior Research Fellow of Language technologies| Pille.Eslon@tlu.ee
 | **PhD Mart Laanpere** | Senior Research Fellow of Educational technology| Mart.Laanpere@tlu.ee
