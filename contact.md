@@ -5,21 +5,7 @@ permalink: /contact/
 feature-img: "img/sample_feature_img_3.png"
 ---
 
-Centre for Educational Technology\\
-School of Digital Technologies\\
-Tallinn University\\
-Astra Building\\
-Narva road 29\\
-10120\\
-Tallinn ESTONIA
-
-Haridustehnoloogia Keskus\\
-Digitehnoloogiate instituut\\
-Tallinna Ülikool\\
-Astra maja\\
-Narva mnt 29\\
-10120\\
-Tallinn EESTI
+Centre for Educational Technology <br>School of Digital Technologies<br>Tallinn University<br> Astra Building <br> Narva road 29 <br> 10120 <br>Tallinn ESTONIA | Haridustehnoloogia Keskus <br> Digitehnoloogiate instituut <br> Tallinna Ülikool <br> Astra maja <br> Narva mnt 29 <br> 10120 <br> Tallinn EESTI
 
 Phone: (+372) 6409 355\\
 Fax: (+372) 6409 116\\
