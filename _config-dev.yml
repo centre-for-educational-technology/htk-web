@@ -11,9 +11,9 @@ theme:
   description: "Centre for Educational Technology / DTI / Tallinn University" # used by search engines
 
   # Header and footer text
-  header_text: >
+  header_text: > 
 
-  header_text_feature_image:
+  header_text_feature_image: "img/sample_feature_img_3.png"
   footer_text: >
 
   # Icons
@@ -24,7 +24,7 @@ theme:
   dribbble:
   facebook:
   flickr:
-  github: 
+  github:
   google_plus:
   instagram:
   linkedin:  # Full URL
