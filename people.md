@@ -37,7 +37,7 @@ feature-img: "img/sample_feature_img.png"
 | **Gerti Pishtari** | Junior researcher, PhD student| Gerti.Pishtari@tlu.ee
 | **Abiodun Afolayan Ogunyemi** | PhD student | Abnogn@tlu.ee
 | **Eka Jeladze** | PhD student | Eka.Jeladze@tlu.ee
-| **James Sunney Quaicoe** | PhD student | Aasanni@tlu.ee
+| **James Sunney Quaicoe** | PhD student | james_sunney.quaicoe@tlu.ee
 | **Anastassiia Väljamäe** | PhD student  | Anastasiia.Valjamae@tlu.ee
 
 
