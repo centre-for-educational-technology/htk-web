@@ -2,4 +2,4 @@
 
 ## Build
 
-        jekyll build --config=_config-dev.yml
+        jekyll serve --config=_config-dev.yml --watch
