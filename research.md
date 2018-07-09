@@ -5,7 +5,7 @@ permalink: /research/
 feature-img: "img/sample_feature_img_3.png"
 ---
 
-Interdiscplinary research activities of the Centre for Educational Technology are tightly related with five academic fields of School of Digital Technologies and centre for excellences of other schools of TLU:
+Interdiscplinary research activities of the Centre for Educational Technology focuses on theoretical and practical challenges related to educational uses of technologies for teaching and learning in formal and informal educational settings. Projects and activities are alinged around following research strands:
 
 ### STE(A)M education and Citizen science
 
