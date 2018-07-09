@@ -7,8 +7,6 @@ feature-img: "img/sample_feature_img_3.png"
 
 **2015-2018**
 
-Baheer, B.A., Lamas, D, Sousa, S. (2018). Towards Development of Technical Architecture for eGovernment Environment. 11th International Conference on Theory and Practice of Electronic Governance (ICEGOV2018); 4-6 april 2018; Ireland. ACM
-
 Deku, V.S., Nyagorme, P., Quaicoe, J.S. (2017). English Language Acquisition: A Comparative Study of Multimedia usage and Conventional Direct Methods of teaching in Awutu Senya East Municipal of Ghana. ICERI 2017 Proceedings: 10th Annual International Conference of Education, Research and Innovation, Seville (Spain). 16th - 18th of November, 2017. Seville, Spain: IATED Academy, 2377−2384
 
 Dennerlein, S., Kowald, D., Lex, E., Theiler, D., Lacic, E., Ley, T., Tomberg, V., & Ruiz-Calleja, A. (2015). The Social Semantic Server: A Flexible Framework to Support Informal Learning at the Workplace. 15 International Conference on Knowledge Technologies and Data-Driven Business. ACM, 26.
@@ -24,10 +22,6 @@ Eradze, M., & Laanpere, M. (2017). Lesson Observation Data in Learning Analytics
 Eradze, M., Pata, K., & Laanpere, M. (2015). Analyzing Learning Flows in Digital Learning Ecosystems. In: Yueh-Min Huang, Frederick Li, Qun Jin (Ed.). Advances in Web-Based Learning – ICWL 2013 Workshops (63−72). Berlin-Heidelberg: Springer Heidelberg. (Lecture Notes in Computer Science; 8390).
 
 Ferguson, R., Cooper, A., Drachsler, H., Kismihók, G., Boyer, A., Tammets, K., & Martínez Monés, A. (2015). Learning analytics: European perspectives. In: LAK '15 Proceedings of the Fifth International Conference on Learning Analytics And Knowledge: Poughkeepsie, NY, USA — March 16 - 20, 2015. Ed. Baron, J.; Lynch, G.; Maziarz, N.; Blikstein, P.; Merceron, A.; Siemens G. NY: ACM, 69−72.
-
-Gulati, S., Sousa, S., Lamas, D. (2017). Modelling Trust: An Empirical Assessment. Springer (Lecture Notes in Computer Science): INTERACT 2017, Mumbai, India. 27-29 September 2017. Springer, 1−22 [ilmumas]
-
-Gulati, S., Sousa, S., & Lamas, D. (2016). Role of Trust in Human Computer Interaction: A Literature Review. 4th Conference on Multimedia, Interaction, Design and Innovation (MIDI’16): Proceedings of the Multimedia, Interaction, Design and Innovation MIDI ’16. Gdansk, Poland: ACM, 1−4 [in press].
 
 Hedayati, M.H., & Laanpere, M., & Ammar, M.A. (2017). VocITwiki: A Semantic Mediawiki for vocational ICT education in Afghanistan. 4th International Conference on "Computing For Sustainable Global Development"; 1st to 3rd March, 2017; New Delhi. INDIACom, 1−5
 
@@ -53,21 +47,11 @@ Kurvits, M., Laanpere, M., & Väljataga, T. (2015). Analysis of tools and method
 
 Kusmin, M., Laanpere, M., Saar, M., & Rodríguez-Triana, M.J. (2017). Work in progress - Smart schoolhouse as a data-driven inquiry learning space for the next generation of engineers. Global Engineering Education Conference (EDUCON), 2017 IEEE: 2017 IEEE Global Engineering Education Conference (EDUCON) 25.-28.04.2017 Athens, Greece. Ed. 16946785. IEEE Explore: IEEE Conference Publications,.10.1109/EDUCON.2017.7943072
 
-Kwiatkowska J., Górnicka, O., Bartkowski, W., & Lamas, D. (2015). Applying generative techniques to avoid technology push effect in design ideas and prototypes created by technology oriented people. MIDI '14: Proceedings of the 2015 Mulitmedia, Interaction, Design and Innovation International Conference on Multimedia, Interaction, Design and Innovation. New York: Association for Computing Machinery (ACM) , [ilmumas].
-
 Laugasson, E., Quaicoe, J.S., Jeladze, E., & Jesmin, T. (2016). Bridging digital divide in schools in developing countries: perceptions of teachers of free software opportunities. HCI International 2016: HCI International 2016 Toronto, Canada, 17 - 22 July 2016 The Westin Harbour Castle Hotel. Springer, 1−12 [in press].
 
 Laugasson, E., & Mõttus, M. (2015). Free Software User Interfaces: Usability and Aesthetics. In: Learning and Collaboration Technologies: 17th International Conference on Human-Computer Interaction. Ed. Panayiotis Zaphiris; Andri Ioannou. Switzerland: Springer, 676−686. (9192).
 
 Ley, T., Seitlinger, P., & Pata, K. (2016). Patterns of Meaning in a Cognitive Ecosystem: Modeling Stabilization and Enculturation in Social Tagging Systems. In: U. Cress, H. Jeong, & J. Moskaliuk (Ed.). Mass Collaboration and Education (in press). Switzerland: Springer. (Computer-Supported Collaborative Learning Series; 16)
-
-Mõttus, M., Kukk, L., & Lamas, D. (2017). Aesthetic categories of interaction: Aesthetic perceptions on smartphone and computer. Proceedings of the Federated Conference on Computer Science and Information Systems, 11: 2017 Federated Conference on Computer Science and Information Systems (FedCSIS), Prague, Czech Republic, 3 - 6 September, 2017. Institute of Electrical and Electronics Engineers (IEEE), 1249−1256
-
-Mõttus, M. (2017). Aesthetics in Interaction Design. Proceedings of EICS 2017: ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '17) June 26-29, 2017 - Lisbon, Portugal. Association for Computing Machinery (ACM) , 141−144.10.1145/3102113.3102153
-
-Mõttus, M., Lamas D., Karapanos E., & Cockton G. (2016). Understanding Aesthetics of Interaction: A Repertory Grid Study. In: NordiCHI '16 Proceedings of the 9th Nordic Conference on Human-Computer Interaction (x−xx). ACM Digital Library: ACM.
-
-Mõttus M., & Lamas, D. (2015). Aesthetics of Interaction Design: A Literature Review. In: Proceeding MIDI '15 Proceedings of the Mulitimedia, Interaction, Design and Innnovation (x−x). ACM Digital Library: ACM.
 
 Ogunyemi, A., Lamas, D., Stage, J., & Lárusdóttir, M. (2017). Assessment Model for HCI Practice Maturity in Small and Medium Sized Software Development Companies. 17th International SPICE Conference (SPICE 2017) University of the Balearic Islands (UIB) Palma de Mallorca, Spain, 4-5 October 2017.Springer International Publishing Switzerland: Springer Proceedings of Communications in Computer and Information Science (CCIS), 55−69.10.1007/978-3-319-67383-7_5
 
@@ -129,15 +113,7 @@ Ruiz-Calleja, A., Dennerlein, S., Tomberg, V., Pata, K., Ley, T., Theiler, D., &
 
 Ruiz-Calleja, A., Dennerlein, S., Tomberg, V., Ley, T., Theiler, D., & Lex, E. (2015). Integrating data across workplace learning applications with a social semantic infrastructure. In: ICWL 2015: The 14th International Conference on Web-based Learning. Springer, 208−217.
 
-Rutkowska, J., Lamas, D., Visser, F., Wodyk, Z., Bańka, O. (2017). Shaping Loyalty: Experiences from Design Research Practice. Interactions, 24 (3), 60−65.10.1145/3064774.
-
-Rutkowska, J., Bańka, O., Wodyk, Z., Lamas, D. (2016). Loyalty Theory Flashcards as a Design Tool in a Design Research Project: A Case Study of the Food Delivery App. Proceedings of the 9th Nordic Conference on Human-Computer Interaction. ACM, 1−4.
-
 Saar, M., Kusmin, M., Laanpere, M., Prieto, L.P., & Rüütmann, T. (2017). Work in progress - Semantic annotations and teaching analytics on lecture videos in engineering education. Global Engineering Education Conference (EDUCON): 8th IEEE Global Engineering Education Conference (EDUCON); 25-28 April 2017; Athens, Greece. Athens, Greece: IEEE, 1548−1551.10.1109/EDUCON.2017.7943055
-
-Shmorgun, I., Lamas, D., Mercer, E. (2016). Towards a Pattern Language for Distributed User Interfaces. In: Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (2712−2718). California, USA: ACM. (CHI EA '16).
-
-Samadzai, A.W., Tomberg, V., Lamas, D. (2016). Current Health Records Practices in Afghanistan and Possible Future Development. IEEE Xplore: 18th intermational Conference on e-Health Networking, Applications and Services (Healthcom 14-17 September 2016. IEEE Conference Publications, 1−6
 
 Sillaots, M., & Jesmin, T. (2016). Multiple Regression Analysis: Refinement of the Model of Flow. Proceedings of The 10th European Conference on Games Based Learning ECGBL 2016: ECGBL, University of the West of Scotland, Paisley, 6-7 October 2016. Ed. C. Busch. UK: Academic Conferences and Publishing International Limited, x−y [in press].
 
@@ -148,10 +124,6 @@ Sillaots, M. (2015). Using Avatars for Course Management and Immersion. In: Gam
 Sillaots, M. (2015). Gamification of Higher Education by the Example of Computer Games Course. In: eLmL 2015, The Seventh International Conference on Mobile, Hybrid, and On-line Learning, 5: eLmL 2015, Lisbon, Portugal, from February 22, 2015 to February 27, 2015. Ed. Stephen White, Michelle Marquand. Lisbon, Portugal: IARIA, 62−68.
 
 Sillat, L.H., Kollom, K., & Tammets, K. (2017). Development of Digital Competencies in Preschool Teacher Training. EDULEARN17 Proceedings: 9th International Conference on Education and New Learning Technologies. Barcelona, Spain. 3-5 July, 2017. Ed. Gómez Chova, Luis; López Martínez, Agustin; Candel Torres, Ignacio. IATED, 1806−1813. (EDULEARN17 Proceedings
-
-Sousa, S., Lamas, D., & Dias, P. (2015). Value creation through trust in technologically-mediated social participation. Technology, Innovation and Education, 1−9 [in ress].
-
-Sousa, S., Lamas, D., Dias, P. (2015). Fostering sharing with trust. In: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems: ACM.
 
 Tammets, K., & Laanpere, M. (2015). Õpianalüütika kontseptuaalne raamistik ja selle rakendatavus Eesti kontekstis. Eesti Haridusteaduste Ajakiri, 3 (2), 216−246.
 
