@@ -22,18 +22,12 @@ feature-img: "img/sample_feature_img.png"
 | **Adolfo Ruiz Calleja, Ph.D** | Senior Researcher of Learing analytics| Adolfo.Ruiz_calleja@tlu.ee
 | **Maria Jesus Rodriguez Triana, Ph.D** | Senior Researcher of Educational data mining| Maria_jesus.Rodriguez_triana@tlu.ee;
 | **Triinu Jesmin** <br> Lecturer, junior researcher | Serious games, data analysis, statistics  | Triinu.Jesmin@tlu.ee
-| **Prof. David Lamas** | Professor of Interaction design | David.Lamas@tlu.ee
-| **Vladimir Tomberg, Ph.D** | Senior Researcher of Educational technology| Vladimir.Tomberg@tlu.ee; 
-| **Aleksander Väljamäe, Ph.D** | Senior Researcher, Associate Professor of Physiological computing| Aleksander.Valjamae@tlu.ee
-| **Sonia Claudia da Costa Sousa, Ph.D** | Researcher, associate professor| Sonia.Sousa@tlu.ee
-| **Ilja Šmorgun** | Associate professor| Ilja.Smorgun@tlu.ee
 | **Jaanika Hirv** | Analyst (currently on leave)
 | **Linda Helene Sillat** | Junior researcher | sillat@tlu.ee
 | **James Sunney Quaicoe** | Junior researcher | james_sunney.quaicoe@tlu.ee
-| **Mati Mõttus** | Analyst, PhD student| Mati.Mottus@tlu.ee
 | **Gerti Pishtari** | Junior researcher, PhD student| Gerti.Pishtari@tlu.ee
 | **Eka Jeladze** | Junior researcher, PhD student | Eka.Jeladze@tlu.ee
-| **Anastassiia Väljamäe** | PhD student  | Anastasiia.Valjamae@tlu.ee
+| **Shashi Kant Shankar** | PhD student |shashik@tlu.ee
 
 
 **Research support and dev staff**
