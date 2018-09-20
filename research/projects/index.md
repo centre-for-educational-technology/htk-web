@@ -29,6 +29,14 @@ The development of a consolidated DigCompOrg SAT (i.e. a standardised question s
 **Program:** EC, Joint Research Centre\\
 **Project members:** Mart Laanpere
 
+### DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society 
+ 
+DesignIT, aims at enriching entrepreneurial education at the tertiary level by introducing design thinking methodologies that help students empathize with target users, ideate how users will experience a proposed solution, identify opportunities for innovation, and synthesize creative solutions that successfully address needs.
+
+**Period:** 01.09.2017 – 31.08.2019\\
+**Program:** Erasmus+ - Strategic Partnerships\\
+**Project members:** Kai Pata
+
 ### EduMap - Adult Education as a Means to Active Participatory Citizenship 
 
 The aim of the project Adult Education as a Means to Active Participatory Citizenship (EduMAP) is to understand and develop the real and potential impact of adult education on learning for active participatory citizenship in Europe. The main research question is: What policies and practices are needed in the field of adult education to include young adults at risk of social exclusion in active participatory citizenship in Europe? EduMAP will compile an inventory of the adult education policies and practices in EU Member States, with a particular focus on their relevance with regard to young adults at risk of social exclusion. Successful educational practices within and outside the EU will be mapped and investigated, in order to help educational agencies to design initiatives catering for the varied needs of vulnerable minority groups. To understand how the providers and users of educational initiatives are situated in the flows of information and communication, we will study and map communicative ecologies in the field of adult education and develop innovative forums for dialogue between educational agencies and young people. The research findings will be used to generate an Intelligent Decision Support System (IDSS) to give policy-makers and other stakeholders easy access to the information required to address the needs of vulnerable minority groups. The fundamental aim is to help policy-makers, educational authorities and educators to ensure that young generations as a whole will attain the competences needed to actively participate in society and the labour market.
