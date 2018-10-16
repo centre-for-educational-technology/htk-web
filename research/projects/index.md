@@ -31,7 +31,7 @@ The development of a consolidated DigCompOrg SAT (i.e. a standardised question s
 
 ### [DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society](projectdesignit.eu)
 
-![Erasmus+](/img/erasmus-plus.png) \\
+![Erasmus+](/img/erasmus-plus.png)  
  
 DesignIT, aims at enriching entrepreneurial education at the tertiary level by introducing design thinking methodologies that help students empathize with target users, ideate how users will experience a proposed solution, identify opportunities for innovation, and synthesize creative solutions that successfully address needs.
 
