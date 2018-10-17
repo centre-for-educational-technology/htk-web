@@ -29,7 +29,7 @@ The development of a consolidated DigCompOrg SAT (i.e. a standardised question s
 **Program:** EC, Joint Research Centre\\
 **Project members:** Mart Laanpere
 
-### [DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society](projectdesignit.eu)
+### [DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society](https://projectdesignit.eu)
 
 ![Erasmus+](/img/erasmus-plus.png)  
  
