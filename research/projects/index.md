@@ -31,7 +31,7 @@ The development of a consolidated DigCompOrg SAT (i.e. a standardised question s
 
 ### [DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society](https://projectdesignit.eu)
 
-![Erasmus+](img/erasmus-plus.png)  
+![Erasmus+]({{ site.baserl}}/img/erasmus-plus.png)
  
 DesignIT, aims at enriching entrepreneurial education at the tertiary level by introducing design thinking methodologies that help students empathize with target users, ideate how users will experience a proposed solution, identify opportunities for innovation, and synthesize creative solutions that successfully address needs.
 
@@ -50,7 +50,7 @@ Project members: Kai Pata
 
 ### EMPLOY - Digital Skills for Employability and Social Inclusion
 
-![Erasmus+](img/erasmus-plus.png)  
+![Erasmus+]({{ site.baserl}}/img/erasmus-plus.png)
 
 Changes in labour market have strong impact on low skilled workers. Lack of digital skills and low social abilities can cause problems in retraining and lead to the long term unemployment. To reduce the risk of unemployment it is important to develop digital skills according to the industry needs already in the level of primary and lower secondary school. The objective of EMPLOY project is to develop serious game and implement game based learning approach to support the development of industry related digital skills among primary and secondary school students.
 
@@ -60,7 +60,7 @@ Changes in labour market have strong impact on low skilled workers. Lack of digi
 
 ### EU-DO-IT - European Digital Online-Game for Intercultural Learning and Translanguaging 
 
-![Erasmus+](img/erasmus-plus.png)  
+![Erasmus+]({{ site.baserl}}/img/erasmus-plus.png)
  
 Description:
 
@@ -103,7 +103,7 @@ Description: Building on the success of HCI curricula conception at Tallinn Univ
 
 ### LanguageGames - Serious Games for Fostering Multilingualism in Early Childhood Education
 
-![Erasmus+](img/erasmus-plus.png)  
+![Erasmus+]({{ site.baserl}}/img/erasmus-plus.png)
 
 Description: LanguageGames aims at the development of multilingual skills in early childhood learning, spanning pre-primary and early primary education, in an active and experiential manner. The project takes current practices for language skill building a step further by exploiting emerging state-of-the-art serious games-enhanced learning frameworks adapted to the cognitive development level of young learners. The proposed active learning approach will immerse young learners in activities that take inspiration from real-life and familiar school practices offering benefits that include immediate feedback for scaffolding knowledge by better understanding mistakes, motivational factors in the form of game rewards, collaboration opportunities, and the development of problem-solving skills through puzzles. The proposed tools will be designed for classroom deployment, as opposed to standalone use, in the context of wider language learning activities thus enhancing existing school practices in language education. The proposed serious game for language learning will integrate age-appropriate, well accepted syllabic language learning methodologies that help youngsters build word recognition and reproduction capacity.
 
@@ -113,7 +113,7 @@ Description: LanguageGames aims at the development of multilingual skills in ear
 
 ### LEAP - Lean and Agile Practices linking Engineering Higher Education to Industry 
 
-![Erasmus+](img/erasmus-plus.png)  
+![Erasmus+]({{ site.baserl}}/img/erasmus-plus.png)
 
 Description: LEAP project is Erasmus + project (2016-2019) that aims at promoting engineering in higher education using Lean and agile learning design framework. The project is designing and developing the serious game and teacher support materials that integrate industry roles, real life problems, innovative solutions. Tallinn University is leading Good practices WP and is also responsible for  Learning Framework, serious game development, instructional support and developing and validation of good practices.
 
@@ -132,7 +132,7 @@ Description: Goal of the project is to design in collaboration with TLU School o
 
 ### PT&SCHE - Introduction of part-time and short cycle studies in Serbia 
 
-![Erasmus+](img/erasmus-plus.png)  
+![Erasmus+]({{ site.baserl}}/img/erasmus-plus.png)
  
 Description: Part-Time and Short Cycle Studies in Serbia project (PT & SCHE) aims to propose, currently missing, the legislation framework for both PT & SCHE studies in Serbia (EQF Level 5). Two project partners, authorized for HE legislation  (Ministry of Education, Science and Technology Development, and National Council of Higher Education) will be actively involved in this project.   The Strategy on Education Development till 2020 in the Republic of Serbia identified the need for part-time (PT) and short cycle (SCHE) studies and the appropriate action plans were adopted. With this project, they will be implemented, as their legislation framework will be specified, tested and prepared for adoption, and supported by recommendations for their implementation.  As the final result, the HE system will become more relevant and adaptable to the labour market in Serbia.
 
@@ -151,7 +151,7 @@ Description: Building on the success of HCI curricula conception at Tallinn Univ
 
 ### SHEILA - Supporting Higher Education to Integrate Learning Analytics 
 
-![Erasmus+](img/erasmus-plus.png)  
+![Erasmus+]({{ site.baserl}}/img/erasmus-plus.png)
 
 Description: The Sheila project aims at improving quality in education teaching and learning, which is one of the main priorities under the Modernisation of Higher Education Strategy. The project focuses on student centred learning and learners personalised guidance. Learning analytics holds a big potential to address the pressures and challenges confronting contemporary education institutions.
 
@@ -170,7 +170,7 @@ Zoos are important institutions of preserving the natural heritage of the CB reg
 
 ### YCHANGE – Young Scientists as Change Explorers - Students Evaluating Environmental Change in Europe with Digital Space Technologies
 
-![Erasmus+](img/erasmus-plus.png)  
+![Erasmus+]({{ site.baserl}}/img/erasmus-plus.png)
 
 Zoos are important institutions of preserving the natural heritage of the CB region - protecting and preserving endangered species and at the same time increasing the environmental awareness. At the moment, the use of mobile technologies for learning by visitors of the zoos is very traditional, mainly providing static information. There is an active cooperation network between the zoos of the CB region, but at the moment it is limited mainly on exchanging animals and conducting joint research.  Therefore the main objective of the current project is to integrate the zoos of the CB region into joint tourist attraction through developing and implementing a cross-border service package for creative adventure learning with mobile devices. It consists of a set of online game-based learning tools and related apps for mobile devices. The SmartZoo mobile learning service provides a reason for visitors to return to zoo several times a year and visit several zoos in one year. Thus, the SmartZoo enhances both the environmental awareness and economical growth of the CB region.
 
