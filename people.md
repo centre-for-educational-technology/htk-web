@@ -35,6 +35,6 @@ feature-img: "img/sample_feature_img.png"
 
 | **Priit Tammets** | Analyst | Priit.Tammets@tlu.ee
 | **Pjotr Savitski** | Senior developer | Pjotr.Savitski@tlu.ee
-| **Sander Aido** | Developer | Sander.Aido@tlu.ee
 | **Gleb Redko** | Developer | Gleb.Redko@tlu.ee
+| **Karl Aleksander Leoste** | Developer | kleoste@tlu.ee
 | **Aili Madisson** | Developer | (currently on leave)
