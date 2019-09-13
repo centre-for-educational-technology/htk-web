@@ -31,7 +31,7 @@ The development of a consolidated DigCompOrg SAT (i.e. a standardised question s
 
 ### [DesignIT - Design thinking in higher education for promoting human-centered innovation in business and society](https://projectdesignit.eu)
 
-![Erasmus+]({{ site.baseurl }}/img/erasmus-plus.png)
+![Erasmus+]({{ site.baseurl }}/img/erasmus-plus.png)\\
  
 DesignIT, aims at enriching entrepreneurial education at the tertiary level by introducing design thinking methodologies that help students empathize with target users, ideate how users will experience a proposed solution, identify opportunities for innovation, and synthesize creative solutions that successfully address needs.
 
@@ -41,7 +41,7 @@ DesignIT, aims at enriching entrepreneurial education at the tertiary level by i
 
 ### INOS - Integrating open and citizen science into active learning approaches in higher education
 
-![Erasmus+]({{ site.baseurl }}/img/erasmus-plus.png)
+![Erasmus+]({{ site.baseurl }}/img/erasmus-plus.png)\\
  
 INOS project is piloting open and citizen science activities in higher education context and develops learning activities, methodologies and resources for citizen science and open innovation activities in Higher Education context. Project contributes in increasing public engagement of HE students and staff to the society. The project is led by Aalborg University, the Multisensory Experience Lab and Service System Design research groups are participating. Tallinn University, School of Digital Technologies Center for Educational Technology researchers (docent Kai Pata and researcher Külli Kori from CEITER working group) intend to test out in the project the open citizen science activities in Higher Education context, and involving the schools through the Citizen Science Competence Centre established in Pelgulinna Gymnasium through Klass + Project. The other partners are University of Oulu, Learning and Educational Technology(LET) research unit who brings to the project collaboration methodologies of active learning; Universite de Bordeaux Innovation Department who contributes with their innovation spirited activities such as scientific game jams, Hacketafac’s, Innovation club and Baityschool in Higher Education settings; Web2Learn from Greece; and European Network of Research Libraries(LIBER), who has strong expertise in open science and has currently launched the working group of citizen science.
 
@@ -70,7 +70,7 @@ Changes in labour market have strong impact on low skilled workers. Lack of digi
 
 ### EU-DO-IT - European Digital Online-Game for Intercultural Learning and Translanguaging 
 
-![Erasmus+]({{ site.baseurl }}/img/erasmus-plus.png)
+![Erasmus+]({{ site.baseurl }}/img/erasmus-plus.png)\\
  
 Description:
 
@@ -142,7 +142,7 @@ Description: Goal of the project is to design in collaboration with TLU School o
 
 ### PT&SCHE - Introduction of part-time and short cycle studies in Serbia 
 
-![Erasmus+]({{ site.baseurl }}/img/erasmus-plus.png)
+![Erasmus+]({{ site.baseurl }}/img/erasmus-plus.png)\\
  
 Description: Part-Time and Short Cycle Studies in Serbia project (PT & SCHE) aims to propose, currently missing, the legislation framework for both PT & SCHE studies in Serbia (EQF Level 5). Two project partners, authorized for HE legislation  (Ministry of Education, Science and Technology Development, and National Council of Higher Education) will be actively involved in this project.   The Strategy on Education Development till 2020 in the Republic of Serbia identified the need for part-time (PT) and short cycle (SCHE) studies and the appropriate action plans were adopted. With this project, they will be implemented, as their legislation framework will be specified, tested and prepared for adoption, and supported by recommendations for their implementation.  As the final result, the HE system will become more relevant and adaptable to the labour market in Serbia.
 
