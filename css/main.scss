@@ -24,11 +24,23 @@
 }
 
 .col-1 {
-    
+    float: left;
+    width: 70%;
+    padding-right: 10px;
 }
 
 .col-2 {
+    font-size: 70%;
+    width: 30%;
+    float: right;
+    border: 1px solid #d1d5da;
+    background-color: #f6f8fa;
+    padding: 10px;
+    margin-top: 20px;
+}
 
+.full-width-page {
+    clear: both;
 }
 
 // End project template
