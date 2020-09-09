@@ -19,7 +19,6 @@ feature-img: "img/sample_feature_img.png"
 | **Terje Väljataga** | Senior Researcher of Educational technology| Terje.Valjataga@tlu.ee
 | **Hans Põldoja** <br> Associate professor, head of the studies  | Open Educational Resources, interaction design | Hans.Poldoja@tlu.ee
 | **Martin Sillaots** <br> Associate professor | Game-based learning | Martin.Sillaots@tlu.ee
-| **Adolfo Ruiz Calleja** | Senior Researcher of Learing analytics| Adolfo.Ruiz_calleja@tlu.ee
 | **Maria Jesus Rodriguez Triana** | Senior Researcher of Educational data mining| Maria_jesus.Rodriguez_triana@tlu.ee
 | **Vladimir Tomberg** | Senior Researcher and Associate Professor| vladimir.tomberg@tlu.ee
 | **Triinu Jesmin** <br> Lecturer, junior researcher | Serious games, data analysis, statistics  | Triinu.Jesmin@tlu.ee
@@ -29,6 +28,8 @@ feature-img: "img/sample_feature_img.png"
 | **Gerti Pishtari** | Junior researcher, PhD student| Gerti.Pishtari@tlu.ee
 | **Eka Jeladze** | Junior researcher, PhD student | Eka.Jeladze@tlu.ee
 | **Shashi Kant Shankar** | PhD student |shashik@tlu.ee
+| **Maia Lust** | Junior researcher, PhD student | maia.lust@tlu.ee 
+| **Pankaj Chejara** | Web Developer, PhD student | pankaj.chejara@tlu.ee
 
 
 **Research support and dev staff**
@@ -36,5 +37,4 @@ feature-img: "img/sample_feature_img.png"
 | **Priit Tammets** | Analyst | Priit.Tammets@tlu.ee
 | **Pjotr Savitski** | Senior developer | Pjotr.Savitski@tlu.ee
 | **Gleb Redko** | Developer | Gleb.Redko@tlu.ee
-| **Karl Aleksander Leoste** | Developer | kleoste@tlu.ee
-| **Aili Madisson** | Developer | (currently on leave)
+| **Aili Madisson** | Developer | Aili.Madisson@tlu.ee
