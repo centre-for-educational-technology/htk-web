@@ -8,7 +8,7 @@ feature-img: "img/sample_feature_img.png"
 **Administrative**
 
 | **Kairit Tammets, Ph.D** <br>Head of the centre for educational technology | Coordination and management of the research centre | Kairit.Tammets@tlu.ee<br> +372 6409 355
-| **Anet Põdra** <br> Research assistant | Administrative aspects of research projects | Anet.Podra@tlu.ee<br> +372 640 9355
+| **Anet Tammets** <br> Projects Coordinator | Financial reporting of the research projects  | Anet.Tammets@tlu.ee<br> +372 640 9355
 | **Ramune Tuulik** <br> Assistant | Administrative aspects of Centre for Educational Technology | Ramune.Tuulik@tlu.ee <br> +372 640 9355
 
 **Research**
