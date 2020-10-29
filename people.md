@@ -38,3 +38,4 @@ feature-img: "img/sample_feature_img.png"
 | **Pjotr Savitski** | Senior developer | Pjotr.Savitski@tlu.ee
 | **Gleb Redko** | Developer | Gleb.Redko@tlu.ee
 | **Aili Madisson** | Developer | Aili.Madisson@tlu.ee
+| **Kätlin Paju** | Trainee | katlin.paju@tlu.ee
