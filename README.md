@@ -1,5 +1,7 @@
 # htk-web
 
+## NB! This repository is now archieved and web page is using a different platform instead. This is kept for historic reasons.
+
 ## Build and develop
 
 Using bundler with locally placed gems is recommended and allows sandboxing
